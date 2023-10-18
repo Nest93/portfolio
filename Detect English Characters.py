@@ -57,7 +57,7 @@ def check_if_English(df,col_name_tocheck):
 
 
 #read data
-data=pd.read_excel(r'C:\Users\samoladasn\OneDrive - Vodafone Group\The Prepay team (N&D)\Other Files\Hunters Capacity\2021\nov21\Hunters November21 updated.xlsx') # specifying the sheet to read from
+data=pd.read_excel(r'C:\Users\samoladasn\OneDrive\Other Files\Hunters Capacity\2021\nov21\Hunters November21 updated.xlsx') # specifying the sheet to read from
 
 
 ## run function here
